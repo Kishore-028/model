@@ -1,5 +1,6 @@
 fastapi
 uvicorn
-opencv-python
 torch
+opencv-python
 ultralytics
+python-multipart
